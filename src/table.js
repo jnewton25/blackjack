@@ -5,9 +5,11 @@ import "./table.css";
 function Table() {
 	return (
 		<div className="App">
-			<header className="App-header">
-				<p>The table will go here!</p>
-			</header>
+			<div className="tableBackground">
+				<div className="table-body">
+					<p>The table will go here!</p>
+				</div>
+			</div>
 		</div>
 	);
 }

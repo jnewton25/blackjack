@@ -4,8 +4,8 @@ import "./tavern.css";
 
 function Tavern() {
 	return (
-		<div className="App">
-			<header className="App-header">
+		<div className="tavern-bg flex-center section-padding">
+			<header className="">
 				<p>The tavern will go here!</p>
 			</header>
 		</div>

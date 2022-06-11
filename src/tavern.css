@@ -12,3 +12,33 @@
 	font-size: calc(10px + 2vmin);
 	color: white;
 }
+
+.section-padding {
+	padding: 4rem 6rem;
+}
+
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.tavern-bg {
+	background: url("./assets/tavernBg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	min-height: 50vh;
+}
+
+/*
+.tavern-bg {
+	background: url("./assets/tavernBg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	min-height: 100vh;
+}
+*/
